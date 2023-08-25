@@ -1,0 +1,21 @@
+{
+  "name": "primeros-pasos-npm",
+  "version": "0.0.0",
+  "description": "En este proyecto aprendemos NPM",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "pepe node"
+  },
+  "author": "Joaquin Contreras <joakingcontreras2@gmail.com>",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.1.0",
+    "responsimple": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}

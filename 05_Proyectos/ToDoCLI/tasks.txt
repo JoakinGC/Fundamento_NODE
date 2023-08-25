@@ -1,0 +1,3 @@
+Terminar|false
+Comenzaca otra aplicacion optimizar imagenes node|false
+terminar curso|true
